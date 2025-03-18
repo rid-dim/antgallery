@@ -169,7 +169,6 @@ We believe in building technology that empowers creativity and collaboration—v
 ## Thank You
 
 **Contact Information:**
-- GitHub Repository: [github.com/username/antgallery](https://github.com/username/antgallery)
-- Email: contact@example.com
+- GitHub Repository: [github.com/rid-dim/antgallery](https://github.com/rid-dim/antgallery)
 
 *AntGallery: Organize, Share, Inspire* 
